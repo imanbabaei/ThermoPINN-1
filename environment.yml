@@ -6,7 +6,6 @@ dependencies:
   - ipyvuetify
   - numpy
   - pandas
-  - tensorflow
   - rdkit
   - thermo
   - scikit-learn<=1.2.0
